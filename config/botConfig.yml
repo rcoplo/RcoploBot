@@ -1,0 +1,13 @@
+#启动类型 , ws , ws-reverse  ws是正向(客户端),   ws-reverse是反向(服务端)
+type: "ws"
+url: "ws://{host}:{port}"
+access_token: ""
+#管理员QQ, Bot最高权限
+super_administrator:
+  - 2939599299
+
+#可指定多个bot昵称
+bot_name:
+  - "小白"
+
+
